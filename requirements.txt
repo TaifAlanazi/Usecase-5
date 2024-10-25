@@ -1,8 +1,5 @@
-numpy 
-pandas 
+
+
 matplotlib.pyplot 
 
-ydata_profiling 
-sweetviz 
-streamlit 
-PIL
+
